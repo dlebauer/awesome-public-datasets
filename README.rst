@@ -19,6 +19,7 @@ Other amazingly awesome lists can be found in the
 Agriculture
 ------------
 * `U.S. Department of Agriculture's PLANTS Database <http://www.plants.usda.gov/dl_all.html>`_
+* `Biofuel Ecophysiological Traits and Yields Database (BETYdb) <http://www.betydb.org>`_
 
 
 Biology
